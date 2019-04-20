@@ -1,5 +1,5 @@
 <?php
-/* Just changing this   .. Added this in remote. Add another to remote*/
+/* Just changing this   .. Added this in remote. Add another to remote. Doing a log of work remotely*/
 namespace SpotifyWebAPI;
 
 class Request
