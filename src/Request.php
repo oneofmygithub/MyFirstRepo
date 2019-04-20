@@ -1,6 +1,6 @@
 <?php
-/* Just changing this   .. Added this in remote. Add another to remote. Doing a log of work remotely
-I'm going to change my stuff locally */
+/* Just changing this   .. Added this in remote. Add another to remote. Doing a log of work remotely, yes I know I'm going to change my stuff locally */
+
 
 namespace SpotifyWebAPI;
 
